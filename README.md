@@ -52,7 +52,6 @@ LANGSMITH_API_KEY=your_langsmith_key_here
 🚨 Warning: Never commit .env files to public repositories.
 
 ## 🚀 How to Run
-#### 🧠 Using OpenAI (app.py)
 ```
 streamlit run app.py
 ```
